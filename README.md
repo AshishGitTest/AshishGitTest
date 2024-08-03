@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### this is just a test account
+### This Is Just A Test Account
 
 <!--
 **AshishGitTest/AshishGitTest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
